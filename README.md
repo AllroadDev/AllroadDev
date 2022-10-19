@@ -11,7 +11,8 @@ I've been learning to code for half year, after switching careers from 3D-Artist
 *   ✉️  You can contact me at [al.bezsmertnyi@gmail.com](mailto:al.bezsmertnyi@gmail.com)
 *   🧠  I'm learning React.JS
 *   🤝  I'm open to collaborating on All possible types of projects to gain new knowledge and exprerience
-<a href="https://www.github.com/AllroadDev" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/github/followers/AllroadDev?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" />
+<br>
+<a href="https://www.github.com/AllroadDev" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/github/followers/AllroadDev?logo=github&amp;style=for-the-badge&amp;color=0891b2&amp;labelColor=1c1917" class="object-scale-down">
 </a>
 
 ### Skills 
@@ -36,11 +37,7 @@ I've been learning to code for half year, after switching careers from 3D-Artist
               
 <p align="left">
                           
-<a href="https://www.github.com/AllroadDev" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a>
-                          
-<a href="http://www.instagram.com/alex_bezsmertnyi" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a>
-                          
-<a href="https://www.linkedin.com/in/oleksandr-bezsmertnyi/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
+<p> <a href="https://www.github.com/AllroadDev" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/alex_bezsmertnyi" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/oleksandr-bezsmertnyi/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
 
 ### Badges
 
