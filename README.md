@@ -25,6 +25,8 @@ I've been learning to code for half a year, after switching careers from 3D-Arti
 <img src="https://img.icons8.com/external-flaticons-flat-flat-icons/38/000000/external-scrum-agile-flaticons-flat-flat-icons-2.png"/>
 <img src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/38/000000/external-waterfall-infographic-flaticons-lineal-color-flat-icons-3.png"/>
 <img src="https://img.icons8.com/ios/38/000000/notion.png"/>
+<img src="https://img.icons8.com/external-microdots-premium-microdot-graphic/38/000000/external-chart-chart-graph-microdots-premium-microdot-graphic.png"/>
+<img src="https://img.icons8.com/color/44/000000/trello.png"/>
 
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" /></a>
