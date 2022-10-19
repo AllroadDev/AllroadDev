@@ -5,7 +5,7 @@ Hi 👋 My name is Oleksandr Bezsmertnyi
 Project Manager
 ---------------
 
-I've been learning to code for half a year, after switching careers from 3D-Artist . I started with HTML, but have really found a passion for frontend development...
+<!-- I've been learning to code for half a year, after switching careers from 3D-Artist . I started with HTML, but have really found a passion for frontend development... -->
 
 *   🌍  Currently, I'm based in Ukraine..., but who knows where the fate will take me
 *   ✉️  You can contact me at [al.bezsmertnyi@gmail.com](mailto:al.bezsmertnyi@gmail.com)
