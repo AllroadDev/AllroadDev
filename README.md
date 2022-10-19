@@ -9,8 +9,7 @@ I've been learning to code for half a year, after switching careers from 3D-Arti
 
 *   🌍  I'm based in Ukraine
 *   ✉️  You can contact me at [al.bezsmertnyi@gmail.com](mailto:al.bezsmertnyi@gmail.com)
-*   🧠  I'm learning React.JS
-*   🤝  I'm open to collaborating on All possible types of projects to gain new knowledge and exprerience
+*   🤝  I'm open to collaborating on All possible types of projects to gain new knowledge and experience
 <br>
 <a href="https://www.github.com/AllroadDev" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/github/followers/AllroadDev?logo=github&amp;style=for-the-badge&amp;color=0891b2&amp;labelColor=1c1917" class="object-scale-down">
 </a>
