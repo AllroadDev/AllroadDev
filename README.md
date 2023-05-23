@@ -2,7 +2,6 @@
 Hi 👋 My name is Oleksandr Bezsmertnyi
 ======================================
 
-Project Manager
 ---------------
 
 <!-- I've been learning to code for half a year, after switching careers from 3D-Artist . I started with HTML, but have really found a passion for frontend development... -->
